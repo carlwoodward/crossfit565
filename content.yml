@@ -1,0 +1,94 @@
+title: BentonCrossfit
+logo: "images/crossfit565/logo.png"
+nav:
+  Home: "#home"
+  About Us: "#about-us"
+  Services: "#services"
+  Pricing: "#pricing"
+  Our Team: "#team"
+  Timetable: "#timetable"
+  Contact Us: "#contact-us"
+homepageImages:
+  "images/crossfit565/intro_1.jpg": "The Best Crossfit<br/>in the Southern Highlands"
+  "images/crossfit565/intro_2.jpg": "Ben Garard<br/>2 times regional athlete<br/>San Francisco Fire athlete"
+  "images/crossfit565/intro_3.jpg": "A Fantastic Environment<br/>for Everyone"
+aboutSection:
+  heading: About
+  tagline: "Get fit, make friends, have fun."
+  main:
+    <p>BENt On CrossFit is forging elite fitness in the Southern Highlands. We offer group classes 6 days a week as well as intensive personal training sessions available. With coaches dedicated to encouraging optimal technique and a focus on high intensity training, BENt On CrossFit is not your average gym.</p>
+    <p>No workout is the same, with people of mixed gender and ability levels all working to their own capacity, with movements tailored to individual needs.</p>
+    <p>BENt On CrossFit is also a stockist of an extensive range of supplements from Australian Sports Nutrition. With knowledgable coaches and a great deal of choice, you should be sure to find your supplementation needs. Otherwise, we can order it in!</p>
+  sections:
+    -
+      heading: Excellent Facilities
+      body: We have a great place to work out.
+    -
+      heading: Tailored Programming
+      body: We have a great place to work out.
+    -
+      heading: Helpful Trainers
+      body: We have a great place to work out.
+    -
+      heading: Great Community
+      body: We have a great place to work out.
+
+  facility:
+    heading: Our Facility
+    tagline: Where we work
+    body: Facility body.
+
+  gettingStarted:
+    heading: Getting Started
+    tagline: Where we work
+    body: Facility body.
+
+services:
+  heading: Services we offer
+  sections:
+    -
+      heading: Crossfit
+      body: We have a great place to work out.
+    -
+      heading: Personal Training
+      body: We have a great place to work out.
+    -
+      heading: Nutrition
+      body: We have a great place to work out.
+
+  testimonialsHeading: "What people are saying"
+  testimonials:
+    -
+      quote: "Blah blah blah"
+      name: Carl Woodward
+    -
+      quote: "Blah blah blah"
+      name: Carl Woodward
+    -
+      quote: "Blah blah blah"
+      name: Carl Woodward
+
+team:
+  heading: Meet our Team
+  people:
+    -
+      image: images/crossfit565/team-ben.jpg
+      name: Ben Garard
+      title: Head Coach
+    -
+      image: images/crossfit565/team-ben.jpg
+      name: Ben Garard
+      title: Head Coach
+    -
+      image: images/crossfit565/team-ben.jpg
+      name: Ben Garard
+      title: Head Coach
+    -
+      image: images/crossfit565/team-ben.jpg
+      name: Ben Garard
+      title: Head Coach
+
+contactUs:
+  email: bentoncrossfit@outlook.com
+  address: 3/241-243 Old Hume Hwy<br/>Mittagong NSW 2575
+  phone: Phone<br/>0406607144
