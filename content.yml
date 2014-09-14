@@ -10,7 +10,7 @@ nav:
   Contact Us: "#contact-us"
 homepageImages:
   "images/crossfit565/intro_1.jpg": "The Best Crossfit<br/>in the Macarthur region"
-  "images/crossfit565/intro_2.jpg": "Andrew Iddon<br/>2 times regional athlete<br/>National Level Weighter"
+  "images/crossfit565/intro_2.jpg": "Andrew Iddon<br/>2 times regional athlete<br/>National Level Weightlifter"
   "images/crossfit565/intro_3.jpg": "A Fantastic Environment<br/>for Everyone"
 aboutSection:
   heading: About
@@ -73,6 +73,7 @@ team:
       image: images/crossfit565/team-andrew-iddon.jpg
       name: Andrew Iddon 
       title: Head Coach
+      Body: 
     -
       image: images/crossfit565/team-guy.jpg
       name: Guy Parkyns  
