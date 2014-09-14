@@ -2569,10 +2569,19 @@ table.table.timetable-table th, table.table.timetable-table td {
   padding: 2rem 1rem;
 }
 
+table.table.timetable-table td.on, table.table.timetable-table tr.alt td.on {
+  background: rgb(0,163,226);
+  color: white;
+}
+
 table.table.timetable-table th {
   text-transform: uppercase;
 }
 
 table.table.timetable-table tr.alt th, table.table.timetable-table tr.alt td {
   background: rgba(204,204,204,1);
+}
+
+table.table.timetable-table tr {
+  border-top: 2px solid white;
 }
