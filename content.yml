@@ -71,20 +71,12 @@ team:
   people:
     -
       image: images/crossfit565/team-ben.jpg
-      name: Ben Garard
+      name: Andrew Iddon 
       title: Head Coach
     -
       image: images/crossfit565/team-ben.jpg
-      name: Ben Garard
-      title: Head Coach
-    -
-      image: images/crossfit565/team-ben.jpg
-      name: Ben Garard
-      title: Head Coach
-    -
-      image: images/crossfit565/team-ben.jpg
-      name: Ben Garard
-      title: Head Coach
+      name: Guy Parkyns  
+      title: Coach
 
 contactUs:
   email: info@crossfit565.com
