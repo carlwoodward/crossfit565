@@ -1,4 +1,4 @@
-title: BentonCrossfit
+title: Crossfit565
 logo: "images/crossfit565/logo.png"
 nav:
   Home: "#home"
@@ -9,16 +9,14 @@ nav:
   Timetable: "#timetable"
   Contact Us: "#contact-us"
 homepageImages:
-  "images/crossfit565/intro_1.jpg": "The Best Crossfit<br/>in the Southern Highlands"
-  "images/crossfit565/intro_2.jpg": "Ben Garard<br/>2 times regional athlete<br/>San Francisco Fire athlete"
+  "images/crossfit565/intro_1.jpg": "The Best Crossfit<br/>in the Macarthur region"
+  "images/crossfit565/intro_2.jpg": "Andrew Iddon<br/>2 times regional athlete<br/>National Level Weighter"
   "images/crossfit565/intro_3.jpg": "A Fantastic Environment<br/>for Everyone"
 aboutSection:
   heading: About
   tagline: "Get fit, make friends, have fun."
   main:
-    <p>BENt On CrossFit is forging elite fitness in the Southern Highlands. We offer group classes 6 days a week as well as intensive personal training sessions available. With coaches dedicated to encouraging optimal technique and a focus on high intensity training, BENt On CrossFit is not your average gym.</p>
-    <p>No workout is the same, with people of mixed gender and ability levels all working to their own capacity, with movements tailored to individual needs.</p>
-    <p>BENt On CrossFit is also a stockist of an extensive range of supplements from Australian Sports Nutrition. With knowledgable coaches and a great deal of choice, you should be sure to find your supplementation needs. Otherwise, we can order it in!</p>
+    <p>CrossFit 565 Premier Strength and Conditioning facility programmed for universal scalability regardless of age, gender, fitness level and experience.</p>
   sections:
     -
       heading: Excellent Facilities
@@ -89,6 +87,6 @@ team:
       title: Head Coach
 
 contactUs:
-  email: bentoncrossfit@outlook.com
-  address: 3/241-243 Old Hume Hwy<br/>Mittagong NSW 2575
-  phone: Phone<br/>0406607144
+  email: info@crossfit565.com
+  address: 2 Garner Place, Ingleburn,<br/> New South Wales, Australia 2565
+  phone: Phone<br/>0422219345
