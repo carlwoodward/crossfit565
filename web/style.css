@@ -2158,6 +2158,7 @@
 	.social .google{background:url(images/google-icon.png) no-repeat}
 	.social .pinterest{background:url(images/pinterest-icon.png) no-repeat}
 	.social .dribbble{background:url(images/dribbble-icon.png) no-repeat}
+	.social li.instagram{display:inline;text-indent:0px}
 	
 	ul.social {
 		margin: auto;
