@@ -108,7 +108,7 @@
 		
 // Google Map
 	var locations = [
-		['<div class="infobox"><h3 class="title"><a href="#contact">Crossfit565</a></h3><span>2 Garner Place,<br/>Ingleburn, New South Wales,<br/>Australia 2565</span><br>0422219345</p></div></div></div>', -33.998485, 150.866086, 2]
+		['<div class="infobox"><h3 class="title"><a href="#contact">Crossfit565</a></h3><span>2 Garner Place,<br/>Ingleburn, New South Wales,<br/>Australia 2565</span><br>0422219345</p></div></div></div>', -33.987098, 150.867196, 2]
 		];
 	
 		var map = new google.maps.Map(document.getElementById('map'), {

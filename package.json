@@ -8,10 +8,15 @@
   },
   "author": "",
   "license": "None",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:carlwoodward/crossfit565.git"
+  },
   "dependencies": {
     "ejs": "^1.0.0",
     "js-yaml": "^3.2.2",
     "q": "^1.0.1",
     "wach": "^0.10.1"
-  }
+  },
+  "devDependencies": {}
 }

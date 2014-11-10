@@ -16,8 +16,8 @@ aboutSection:
   heading: About
   tagline: "Get fit, make friends, have fun."
   main:
-    <p>You're fitness is our priority at Crossfit565. Whether you're doing Crossfit to lose weight, be able play with your kids without feeling puffed or you want to be a serious athlete, you are our focus.</p>
-    <p>When you train at Crossfit565, your workouts are always varied, tailored to you level and a lot of fun. You will always feel welcome and excited at Crossfit565.</p>
+    <p>Your fitness is our priority at Crossfit565. Whether you're doing Crossfit to lose weight, be able play with your kids without feeling puffed or you want to be a serious athlete, you are our focus.</p>
+    <p>When you train at Crossfit565, your workouts are always varied, tailored to your level and a lot of fun. You will always feel welcome and motivated at Crossfit565.</p>
   sections:
     -
       heading: Excellent Facilities
@@ -30,17 +30,17 @@ aboutSection:
       body: The best trainers are here to help you learn the correct techniques and increase your functional fitness.
     -
       heading: Great Community
-      body: Make new friends in your local area. Crossfit565 is more then a gym, its a community.
+      body: Make new friends in your local area. Crossfit565 is more then a gym, it's a community.
 
   facility:
     heading: Our Facility
     tagline: Where we work
-    body: We have a brand new facility that cater classes and one on one training. We have a monster rig, dedicated olympic lifting area, astroturf and the best weight lifting equipment money can buy.
+    body: We have a brand new facility that caters for classes and one on one training. We have a monster rig, dedicated olympic lifting area, astroturf and the best weight lifting equipment money can buy.
 
   gettingStarted:
     heading: Getting Started
     tagline: New to Crossfit
-    body: Starting Crossfit and making fitness a priority in your life can be daunting for many people. Your enjoyment and results is our biggest priority. When you complete undertake our fundamentals course, you will be shown to safely complete olympic lifts as well as get a feeling for how Crossfit works. We require all new members to complete a fundamentals course before they start so please get in touch.
+    body: Starting Crossfit and making fitness a priority in your life can be daunting for many people. Your enjoyment and results is our biggest priority. When you undertake our fundamentals course, you will be shown how to safely complete olympic lifts as well as get a feeling for how Crossfit works. We require all new members to complete a fundamentals course before they start so please get in touch.
 
 services:
   heading: Services we offer
