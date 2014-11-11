@@ -9,7 +9,7 @@ nav:
   Timetable: "#timetable"
   Contact Us: "#contact-us"
 homepageImages:
-  "images/crossfit565/intro_1.jpg": "The Best Crossfit<br/>in the Macarthur region"
+  "images/crossfit565/intro_1.jpg":
   "images/crossfit565/intro_2.jpg": "Andrew Iddon<br/>2 times regional athlete<br/>National Level Weightlifter"
   "images/crossfit565/intro_3.jpg": "A Fantastic Environment<br/>for Everyone"
 aboutSection:
@@ -27,7 +27,7 @@ aboutSection:
       body: Every workout is scaled to meet your abilities, always pushing you forward.
     -
       heading: Helpful Trainers
-      body: The best trainers are here to help you learn the correct techniques and increase your functional fitness.
+      body: Our trainers are here to help you learn the correct techniques and increase your functional fitness.
     -
       heading: Great Community
       body: Make new friends in your local area. Crossfit565 is more then a gym, it's a community.
@@ -35,12 +35,11 @@ aboutSection:
   facility:
     heading: Our Facility
     tagline: Where we work
-    body: We have a brand new facility that caters for classes and one on one training. We have a monster rig, dedicated olympic lifting area, astroturf and the best weight lifting equipment money can buy.
-
+    body: We have a brand new facility that caters for classes and one on one training. We have a 650m2 of CrossFit floor space. 2Om purpose built rig, dedicated olympic lifting area, 20m x 4m of astroturf. You will find Kettlebells, Dumbbells, Wallballs, Rowers and endless amounts of Conditioning equipment.
   gettingStarted:
     heading: Getting Started
     tagline: New to Crossfit
-    body: Starting Crossfit and making fitness a priority in your life can be daunting for many people. Your enjoyment and results is our biggest priority. When you undertake our fundamentals course, you will be shown how to safely complete olympic lifts as well as get a feeling for how Crossfit works. We require all new members to complete a fundamentals course before they start so please get in touch.
+    body: Starting Crossfit and making fitness a priority in your life can be daunting for many people. Your enjoyment and results is our biggest priority. When you undertake our fundamentals course, you will be shown how to safely complete and scale all aspects of CrossFit training, as well as get a feeling for how CrossFit works. We require all new members to complete a fundamentals course before they start so please get in touch.
 
 services:
   heading: Services we offer
@@ -53,7 +52,7 @@ services:
       body: If you would like some personal tuition, our coaches are always there to help.
     -
       heading: Nutrition
-      body: Having trouble shifting weight? You can always ask us about how to get on track with your diet to improve your results.
+      body: Having trouble shifting weight? You can always ask us about how to get on track with your diet and supplementation to improve your results.
 
   testimonialsHeading: "What people are saying"
   testimonials:
@@ -73,7 +72,7 @@ team:
     -
       image: images/crossfit565/team-andrew-iddon.jpg
       name: Andrew Iddon 
-      title: Head Coach
+      title: Coach
       Body: Regional competitor, national weightlifter.
     -
       image: images/crossfit565/team-guy.jpg
