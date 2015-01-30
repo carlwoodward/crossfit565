@@ -1133,6 +1133,10 @@
 		color:#999999;
 		padding:0;
 		}
+
+	.team-box ul {
+    padding-left: 20px;
+  }
 	
 	.team-box h3 {
 		margin: 20px 0;

@@ -16,8 +16,9 @@ aboutSection:
   heading: About
   tagline: "Get fit, make friends, have fun."
   main:
-    <p>Your fitness is our priority at Crossfit565. Whether you're doing Crossfit to lose weight, be able play with your kids without feeling puffed or you want to be a serious athlete, you are our focus.</p>
-    <p>When you train at Crossfit565, your workouts are always varied, tailored to your level and a lot of fun. You will always feel welcome and motivated at Crossfit565.</p>
+    <p>CrossFit is a GPP (General Physical Preparedness) program. Its purpose is to produce a fitness that is broad, general and inclusive. We aim to develop and improve in all aspects of fitness, including strength, speed, agility, power, endurance, stamina, balance, coordination, accuracy and flexibility.</p>
+    <p>The CrossFit program is designed for universal scalability making it the perfect application for any committed individual regardless of experience.  At CrossFit565 we scale load and intensity; we don’t change the program.</p>
+    <p>Your fitness is our priority at CrossFit565. Whether you're doing CrossFit to lose weight, be able to perform everyday task with greater ease, use CrossFit programming to assist you in your current sport or you want to be a become an athlete in the sport of CrossFit, you are our main focus.</p>
   sections:
     -
       heading: Excellent Facilities
@@ -73,11 +74,27 @@ team:
       image: images/crossfit565/team-andrew-iddon.jpg
       name: Andrew Iddon 
       title: Coach
-      Body: Regional competitor, national weightlifter.
+      body:
+        <ul>
+          <li>CrossFit Level 1 Trainer</li>
+          <li>Australian Strength & Conditioning Association Level 1 Coach</li>
+          <li>Australian Weightlifting Federation Club Weightlifting/Sports power Coach Level 1</li>
+          <li>CrossFit Movement and Mobility Certification</li>
+          <li>Started CrossFit in 2011</li>
+          <li>Competed 2012/13 AUS/NZ CrossFit games Australian regionals</li>
+          <li>National level in Weightlifting representing NSW</li>
+        </ul>
     -
       image: images/crossfit565/team-guy.jpg
       name: Guy Parkyns  
       title: Coach
+      body:
+        <ul>
+          <li>CrossFit Level 1 Trainer</li>
+          <li>Cert 3/4 in Personal Training</li>
+          <li>Australian Strength & Conditioning Association Level 1 Coach</li>
+          <li>Started training CrossFit in 2011</li>
+        </ul>
 
 contactUs:
   email: info@crossfit565.com
