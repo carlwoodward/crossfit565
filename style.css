@@ -1677,6 +1677,12 @@
 		border-color: rgb(0,163,226) !important;
 	}
 
+  .navbar-default .navbar-collapse {
+    border-top: 0;
+    position: relative;
+    z-index: 10000;
+  }
+
 	.portfolio-filter li a:hover ,
 	.testimonial h1 ,
 	.how-box-head h3,
