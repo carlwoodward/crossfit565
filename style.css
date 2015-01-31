@@ -565,6 +565,11 @@
 		width: 60px !important;
 		height: 60px !important;
 	}
+	@media (max-width: 768px) {
+    .tparrows {
+      display: none;
+    }
+  }
 	.tparrows:hover {
 		color: #fff;
 	}
@@ -2596,3 +2601,16 @@ table.table.timetable-table tr.alt th, table.table.timetable-table tr.alt td {
 table.table.timetable-table tr {
   border-top: 2px solid white;
 }
+
+@media (max-width: 768px) {
+  table.table.timetable-table {
+    display: block;
+    overflow-x: auto;
+    width: 100%;
+  }
+
+  table.table.timetable-table th, table.table.timetable-table td {
+    padding: 0.5rem;
+  }
+}
+
