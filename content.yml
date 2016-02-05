@@ -72,7 +72,7 @@ team:
   people:
     -
       image: images/crossfit565/team-andrew-iddon.jpg
-      name: Andrew Iddon 
+      name: Andrew Iddon
       title: Coach
       body:
         <ul>
@@ -86,7 +86,7 @@ team:
         </ul>
     -
       image: images/crossfit565/team-guy.jpg
-      name: Guy Parkyns  
+      name: Guy Parkyns
       title: Coach
       body:
         <ul>
@@ -94,6 +94,17 @@ team:
           <li>Cert 3/4 in Personal Training</li>
           <li>Australian Strength & Conditioning Association Level 1 Coach</li>
           <li>Started training CrossFit in 2011</li>
+        </ul>
+    -
+      image: images/crossfit565/team-nikita.jpg
+      name: Nikita Dunkley-Brown
+      title: Coach
+      body:
+        <ul>
+          <li>CrossFit for 3 years</li>
+          <li>CrossFit Level 1 Trainer</li>
+          <li>Level 2 Fitness Professional Cert 3/4 in Fitness</li>
+          <li>Personal Training for 6 years</li>
         </ul>
 
 contactUs:
